@@ -8,7 +8,7 @@ numero = int(input('Digite seu numeo: '))
 print(numero)
 
 
-#tipo floa
+#tipo float
 
 numero = float(input('Digite um numero float: '))
 
